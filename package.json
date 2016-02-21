@@ -1,0 +1,17 @@
+{
+  "name": "adresse",
+  "version": "1.0.0",
+  "description": "Get coordinates from api http://api-adresse.data.gouv.fr/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines":
+    {"node" : ">=4"
+  },
+  "author": "Yassine AZZOUT <yassine.azzout@gmail.com> (http://yass.io)",
+  "license": "uncopyright",
+  "dependencies": {
+    "superagent": "^1.7.2"
+  }
+}
